@@ -195,6 +195,7 @@ body{
 
 .not-found img{
     width: 70%;
+    border-radius: 20%;
 }
 
 .not-found p{
